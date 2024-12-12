@@ -18,12 +18,24 @@ The dataset was AI generated
 Class Name
 ![image](https://github.com/user-attachments/assets/6d391b14-5e74-4543-9717-c1730d13e63c)
 
+## Video Demo
 
+Record a short video of your abstract art animation to display here on your README. You can do this by:
+
+- Screen record your project running on Code.org.
+- Upload that recording to YouTube.
+- Take a thumbnail for your image.
+- Upload the thumbnail image to your repo.
+- Use the following markdown
+
+[![Thumbnail for my projet](nameOfThumbnail.png)](https://drive.google.com/file/d/1PMo7QhOZvA5CiSyDGBVUU3PDDq9VGM4D/view?ts=675b3df5)
+
+![image](https://github.com/user-attachments/assets/e11ffdcb-745a-4eab-bb71-53b40f59d834)
 
 ## Description
 
 This project visualizes university data, including rankings, tuition fees, and acceptance rates, through colorful and interactive shapes. The data is stored in 1D arrays and categorized into expensive, affordable, and top 20 universities using algorithms with multi-selection statements and compound Boolean expressions.
 Universities are represented as triangles, with size based on tuition, x-coordinates determined by acceptance rates, and y-coordinates calculated from rankings using the Math class (Math.pow). Randomized colors (Math.random) and sound effects make the display dynamic and engaging, with unique notes playing for affordable and expensive universities.
 This project simplifies university comparisons, helping users quickly understand trends in affordability, selectivity, and rankings in a visually appealing way. It combines structured categorization with creative visualization to present data in an engaging format.
-(https://drive.google.com/file/d/1PMo7QhOZvA5CiSyDGBVUU3PDDq9VGM4D/view?ts=675b3df5)
+
 
