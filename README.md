@@ -15,3 +15,7 @@ The dataset was AI generated
 
 
 ## UML Diagram
+Class Name
+![image](https://github.com/user-attachments/assets/6d391b14-5e74-4543-9717-c1730d13e63c)
+
+
