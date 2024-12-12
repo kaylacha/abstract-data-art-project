@@ -7,6 +7,7 @@ Data visualizations are powerful tools to present information and convey pattern
 ## Dataset
 
 The dataset was AI generated
+
 	•	Names (String): The names of the universities.
 	•	Rankings (int): The global ranking of each university.
 	•	Tuitions (int): The yearly tuition fees for each university in USD.
